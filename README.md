@@ -26,7 +26,7 @@
 ###   4. With D as centre, CD = 60 mm draw another arc 
 ###   5. Join BC and DC 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
+
 
 ###   This value of VBA is used to decide the scale for the velocity diagram 
 ###   Let us construct the velocity diagram taking a scale: 
